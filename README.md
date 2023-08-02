@@ -25,17 +25,25 @@ Before getting started, ensure you have the following installed on your system:
 
 Node.js (latest or highest version)
 Installation
+
 Clone or download this repository to your local machine.
+
+
 Navigate to the project directory using the command line.
+
+
 Setup
 Install project dependencies by running the following command:
 Copy code
 npm install
+
 Usage
 Start the development server with the following command:
 arduino
 Copy code
 npm run dev
+
+
 Open your web browser and go to http://localhost:3000 to access the website.
 Project Structure
 src/: Contains the source code for the project.
