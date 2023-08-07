@@ -1,6 +1,6 @@
 # Movie Search Coding Project
 ## Introduction
-This is a simple Movie Search Coding Project built using React, JavaScript, CSS, and HTML. It allows users to search for different types of movies by typing in the search bar and clicking the search icon. The project utilizes a Movie API to fetch movie data and display the results.
+- This is a simple Movie Search Coding Project built using React, JavaScript, CSS, and HTML. It allows users to search for different types of movies by typing in the search bar and clicking the search icon. The project utilizes a Movie API to fetch movie data and display the results.
 
 
 
